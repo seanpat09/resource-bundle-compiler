@@ -1,0 +1,1 @@
+zip -r src/staticresources/resourceToCompile.resource resource-bundles/resourceToCompile.resource
