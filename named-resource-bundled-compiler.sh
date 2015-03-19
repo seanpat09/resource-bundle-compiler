@@ -1,1 +1,2 @@
-zip -r src/staticresources/resourceToCompile.resource resource-bundles/resourceToCompile.resource
+cd resource-bundles/resourceToCompile.resource
+zip -r ../../src/staticresources/resourceToCompile.resource . 
